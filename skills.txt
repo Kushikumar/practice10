@@ -5,3 +5,5 @@ php
 kubernate
 jenkins
 aws
+maven
+linux
