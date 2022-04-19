@@ -3,3 +3,5 @@ python
 ansible
 php
 kubernate
+jenkins
+aws
